@@ -21,3 +21,5 @@ pip3 install SpeechRecognition
 pip3 install openai
 
 OpenAI API Key
+
+Command Line MP3 player - for MacOS I use afplay, for ubuntu I use mpg321
